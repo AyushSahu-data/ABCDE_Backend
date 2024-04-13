@@ -30,7 +30,7 @@ The server will start running on localhost: 8080
 
 go test ./...
 
-**## Endpoints**
+Endpoints
 
 POST /users: Creates a new user
 POST /users/login: Logs in existing user
